@@ -7,3 +7,6 @@ do{
 } while (preço !== 0);
 
 console.log("total da compra: R$ " + total);
+
+
+l
